@@ -1,9 +1,13 @@
 #Data Science
+
 ##Canales de Youtube:
 
 -Data School
+
 -Real Python
+
 -Corey Schafer
+
 -Sentdex
 -Tech with Tim
 -Free Code Camp
