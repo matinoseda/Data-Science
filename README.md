@@ -2,13 +2,13 @@
 
 ##Canales de Youtube:
 
--Data School
+\-Data School
 
--Real Python
+\-Real Python
 
--Corey Schafer
+\-Corey Schafer
 
--Sentdex
+\-Sentdex
 -Tech with Tim
 -Free Code Camp
 -Data Science Dojo
