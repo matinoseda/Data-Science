@@ -24,9 +24,12 @@
 + Paquetes y Módulos
 + SQL y Bases de Datos
 + Docker
-+ Archivos JSON, YML,XML
++ Archivos JSON, YML, XML
 + Manejo de API´s
 + Web Scraping
 + Estructura de Datos
 + Binary Trees
 + Crear Ejecutables (.exe)
++ emails
++ Manejo de APIs (REST, FIX, web socket)
+
