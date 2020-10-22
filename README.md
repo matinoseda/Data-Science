@@ -17,6 +17,7 @@
 + Pycon
 + Traversy Media
 + Derek Banas
++ Codemy (bueno para GUIS y web apps con Python)
 + Telusko 
 + Edureka
 + CoreySchafer
@@ -43,4 +44,4 @@
 + emails
 + Manejo de APIs (REST, FIX, web socket)
 + Telegram BOTs
-+ APIs financieras: Alphavantage, Finnhub, IEX, pyROFEF, IOL API
++ APIs financieras: Alphavantage, Finnhub, IEX, pyROFEX, IOL API
