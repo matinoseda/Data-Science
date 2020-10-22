@@ -16,6 +16,16 @@
 + Keith Galli
 + Pycon
 + Traversy Media
++ Derek Banas
++ Telusko 
++ Edureka
++ CoreySchafer
++ CodeWithHarry
++ ProgrammingKnowledge
++ TokyoEdTech
++ Chris Hawkes
++ Amulya's Academy
++ Joe James
 
 ### Áreas para estudiar:
 
@@ -32,4 +42,5 @@
 + Crear Ejecutables (.exe)
 + emails
 + Manejo de APIs (REST, FIX, web socket)
-
++ Telegram BOTs
++ APIs financieras: Alphavantage, Finnhub, IEX, pyROFEF, IOL API
