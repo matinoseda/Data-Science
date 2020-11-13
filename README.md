@@ -31,7 +31,7 @@
 ### Áreas para estudiar:
 
 + Machine Learning
-+ Estructura Proyectos
++ Estructura Proyectos y Virtual Environment
 + Paquetes y Módulos
 + SQL y Bases de Datos
 + Docker
@@ -45,6 +45,9 @@
 + Manejo de APIs (REST, FIX, web socket)
 + Telegram BOTs
 + APIs financieras: Alphavantage, Finnhub, IEX, pyROFEX, IOL API
++ Listas por comprensión
++ PyXLL (Para usar Python en Excel)
++ PandasGUI (Para visualizar lindas las tablas dentro de Python)
 
 ### Coursera
 
