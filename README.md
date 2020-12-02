@@ -48,13 +48,13 @@
 + pyfolio (administrar portafolios, una cartera de activos)
 + pyrofex (operar ROFEX y BYMA con Python)
 + pymatriz (web scraping de la plataforma Matriz)
++ pyhomebroker
 + Listas por comprensión
 + PyXLL (Para usar Python en Excel)
 + PandasGUI (Para visualizar lindas las tablas dentro de Python)
 + CAPM (Capital asset pricing model)
 + MPT (Modern portfolio theory)
 
-+pyhomebroker
 ### Coursera
 
 + Intro to TensorFlow en Español
