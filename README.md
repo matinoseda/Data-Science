@@ -54,6 +54,10 @@
 + PandasGUI (Para visualizar lindas las tablas dentro de Python)
 + CAPM (Capital asset pricing model)
 + MPT (Modern portfolio theory)
++ Tasa implícita de Futuros
++ Arbitraje de plazos de liquidación
++ Arbitraje de paridad
++ Arbitraje de CCL
 
 ### Coursera
 
