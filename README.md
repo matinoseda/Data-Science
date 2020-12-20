@@ -58,6 +58,7 @@
 + Arbitraje de plazos de liquidación
 + Arbitraje de paridad
 + Arbitraje de CCL
++ Matplotlib FuncAnimation()
 
 ### Coursera
 
