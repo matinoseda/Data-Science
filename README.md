@@ -1,5 +1,7 @@
 # Data Science
 
+https://fractalvelvet.wordpress.com/
+
 ### Canales de Youtube:
 
 + Data School
