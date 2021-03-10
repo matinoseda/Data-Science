@@ -27,6 +27,8 @@
 + Chris Hawkes
 + Amulya's Academy
 + Joe James
++ Pablo Paniagua
++ Finanzas Cuantitativas Py
 
 ### Áreas para estudiar:
 
@@ -59,6 +61,7 @@
 + Arbitraje de paridad
 + Arbitraje de CCL
 + Matplotlib FuncAnimation()
++ Dash + plotly
 
 ### Coursera
 
